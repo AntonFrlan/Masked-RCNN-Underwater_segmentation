@@ -4,12 +4,12 @@ Segmentation of detected underwater objects with fine-tuned Masked-RCNN. The obj
 
 ![fig1](output/cv100.png "fig1")
 
-![fig2](cv111.png "fig2")
+![fig2](output/cv111.png "fig2")
 
-![fig3](cv137.png "fig3")
+![fig3](output/cv137.png "fig3")
 
-![fig4](cv38.png "fig4")
+![fig4](output/cv38.png "fig4")
 
-![fig5](cv91.png "fig5")
+![fig5](output/cv91.png "fig5")
 
-![fig6](cv92.png "fig6")
+![fig6](output/cv92.png "fig6")
