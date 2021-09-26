@@ -1,6 +1,6 @@
 # Masked-RCNN-Underwater_segmentation
 
-Segmentation of detected underwater objects with fine-tuned Masked-RCNN. The objects of intrest were pipes, weights, concrete  mat and background sea.
+Segmentation of detected underwater objects by fine-tuning Fast-RCNN into Masked-RCNN. The objects of intrest were pipes, weights, concrete  mat and background sea.
 
 ![fig1](output/cv100.png "fig1")
 
